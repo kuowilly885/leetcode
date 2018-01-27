@@ -1,2 +1,2 @@
 # leetcode
-For interview in USA
+For algorithm and coding quality improving.
